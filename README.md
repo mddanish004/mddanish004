@@ -1,7 +1,7 @@
 Hi 👋 My name is Md Danish Ansari
 =================================
 
-Learning Web development | Java | DSA
+Learning Web development | Java | DSA | Web3
 -------------------------------------
 
 Welcome to my GitHub Profile! Allow me to provide you with a concise overview of what you can anticipate:
