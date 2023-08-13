@@ -15,6 +15,7 @@ Join me on this exhilarating journey of knowledge, collaboration, and transforma
 
 * 🌍  I'm based in Kolkata,India
 * ✉️  You can contact me at [m.danishansari004@gmail.com](mailto:m.danishansari004@gmail.com)
+* Linkedin- https://www.linkedin.com/in/mddanish004/
 
 <a href="https://www.twitter.com/Md_Danish004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Md_Danish004?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
@@ -36,6 +37,7 @@ src="https://img.shields.io/twitter/follow/Md_Danish004?logo=twitter&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Md Danish Ansari#5721" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mddanish004" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://mddanish.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Md_Danish004" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
 ### Badges
 
