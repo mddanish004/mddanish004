@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Md Danish Ansari, a third-year Bachelor of Technology student in Information Technology with a strong interest in backend development and system design. I enjoy understanding how systems work at a fundamental level and building reliable, scalable solutions.
+I am Md Danish Ansari, a third-year Bachelor of Technology student in Information Technology with a strong interest in Full stack development. I enjoy understanding how systems work at a fundamental level and building reliable, scalable solutions.
 
 I am highly motivated by problem-solving and continuously improving my technical skills through hands-on development. Whether debugging complex issues, optimizing database performance, or building new features, I approach challenges with dedication and a strong sense of responsibility for code quality and system reliability.
 
