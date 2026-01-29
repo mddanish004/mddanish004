@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am Md Danish Ansari, 20yo, third-year IT undergrad who enjoys taking things apart to see how they work. I learn quick, build fast, and always get things done. My jam is backend dev - building clean APIs, tweaking databases, and setting up systems to run smooth as silk no matter what. I write code to the limit, crush hard problems, and come out with my head held high. Debugging an ugly bug or building something new, I am intense, loving the thrill of solving. Still grinding for mastery, and I am loving it.If you are building something sick, let me know.
+I am Md Danish Ansari, a third-year Bachelor of Technology student in Information Technology with a strong interest in backend development and system design. I enjoy understanding how systems work at a fundamental level and building reliable, scalable solutions.
 
+I am highly motivated by problem-solving and continuously improving my technical skills through hands-on development. Whether debugging complex issues, optimizing database performance, or building new features, I approach challenges with dedication and a strong sense of responsibility for code quality and system reliability.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mddanish004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DanishonX) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.danishansari004@gmail.com) 
